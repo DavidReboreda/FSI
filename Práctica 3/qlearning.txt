@@ -1,0 +1,8 @@
+Promedio de episodios hasta llegar a la meta solo con exploracion: 229.6
+Promedio de episodios hasta llegar a la meta con la estrategia Greedy: 105.99
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(20%): 53.71
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(40%): 46.37
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(60%): 68.38
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(80%): 78.72
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(90%): 131.63
+Promedio de episodios hasta llegar a la meta con la estrategia EGreedy(95%): 90.85
